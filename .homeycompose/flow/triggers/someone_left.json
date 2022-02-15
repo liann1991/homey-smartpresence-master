@@ -1,0 +1,32 @@
+{
+  "id": "someone_left",
+  "title": {
+    "en": "Someone left",
+    "nl": "Iemand ging weg",
+    "de": "Jemand ist gegangen",
+    "no": "Noen dro hjemmefra",
+    "da": "Nogen forlod hjemmet",
+    "sv": "Någon lämnade"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

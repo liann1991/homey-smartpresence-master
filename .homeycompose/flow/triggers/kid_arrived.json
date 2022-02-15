@@ -1,0 +1,32 @@
+{
+  "id": "kid_arrived",
+  "title": {
+    "en": "A kid arrived",
+    "nl": "Een kind is thuisgekomen",
+    "de": "Ein Kind ist angekommen",
+    "no": "Et barn ankom",
+    "da": "Et barn kom hjem",
+    "sv": "Ett barn anlände"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "household_member_arrived",
+  "title": {
+    "en": "A household member arrived",
+    "nl": "Een gezinslid is aangekomen",
+    "de": "Ein Haushaltsmitglied ist angekommen",
+    "no": "Et medlem av husstanden kom hjem",
+    "da": "Et medlem af husstanden kom hjem",
+    "sv": "En person i hushållet anlände"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

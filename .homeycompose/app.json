@@ -1,0 +1,131 @@
+{
+  "id": "nl.terryhendrix.smartpresence",
+  "version": "0.8.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "brandColor": "#2a6fe8",
+  "name": {
+    "en": "Smart Presence",
+    "nl": "Smart Presence",
+    "de": "Smart Presence",
+    "no": "Smart Presence",
+    "da": "Smart Presence",
+    "sv": "Smart Presence"
+  },
+  "description": {
+    "en": "Presence detection based on smartphones connected to your Wi-Fi",
+    "nl": "Aanwezigheid bepalen aan de hand van smartphones die aan het locale Wi-Fi netwerk gekoppeld zijn",
+    "de": "Anwesenheitserkennung auf Grundlage mit Ihrem Wi-Fi verbundenen Smartphones",
+    "no": "Tilstedeværelse basert på smarttelefon koblet til Wi-Fi-nettverket",
+    "da": "Registrering af tilstedeværelse baseret på om din mobiltelefon er forbundet til Wi-Fi",
+    "sv": "Närvaroavläsning baserad på om smartmobiler/enheter är uppkopplade till WiFi-nätverket"
+  },
+  "category": [
+    "internet",
+    "tools"
+  ],
+  "tags": {
+    "en": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone"
+    ],
+    "nl": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone"
+    ],
+    "de": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone"
+    ],
+    "no": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone",
+      "smarttelefon"
+    ],
+    "da": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone"
+    ],
+    "sv": [
+      "smart",
+      "presence",
+      "wifi",
+      "wi-fi",
+      "smartphone"
+    ]
+  },
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "permissions": [],
+  "author": {
+    "name": "Bjørnar Almli",
+    "email": "bjornar.almli@gmail.com"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Terry Hendrix",
+        "email": "terryhendrix90@gmail.com"
+      },
+      {
+        "name": "Tobias Lins"
+      },
+      {
+        "name": "Marijn Roverts"
+      },
+      {
+        "name": "Bjørnar Almli",
+        "email": "bjornar.almli@gmail.com"
+      }
+    ],
+    "translators": [
+      {
+        "name": "🇬🇧Bjørnar Almli"
+      },
+      {
+        "name": "🇳🇱Ernst van den Bosch"
+      },
+      {
+        "name": "🇩🇪Dirk Göbel"
+      },
+      {
+        "name": "🇳🇴Bjørnar Almli"
+      },
+      {
+        "name": "🇩🇰Gert Nielsen"
+      },
+      {
+        "name": "🇸🇪Morgan Andreasson"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "bjornaralmli"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/balmli/homey-smartpresence/issues"
+  },
+  "homeyCommunityTopicId": 33794,
+  "source": "https://github.com/balmli/homey-smartpresence"
+}

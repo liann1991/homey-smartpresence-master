@@ -1,0 +1,11 @@
+{
+  "id": "kids_at_home",
+  "title": {
+    "en": "Kids !{{|not}} at home",
+    "nl": "Kinderen !{{|niet}} thuis",
+    "de": "Kind !{{|nicht}} zu Hause",
+    "no": "Barna er !{{|ikke}} hjemme",
+    "da": "Børn !{{ikke}} hjemme",
+    "sv": "!{{Barn|Inget barn}} är närvarande"
+  }
+}

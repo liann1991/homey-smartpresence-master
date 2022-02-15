@@ -1,0 +1,39 @@
+{
+  "id": "user_entered",
+  "title": {
+    "en": "A specific user arrived",
+    "nl": "Gebruiker kwam binnen",
+    "de": "Ein bestimmter Benutzer ist angekommen",
+    "no": "En bestemt person kom hjem",
+    "da": "En bestemt person kom hjem",
+    "sv": "Personen anlände"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ],
+  "args": [
+    {
+      "name": "device",
+      "type": "device",
+      "filter": "driver_id=smart_presence"
+    }
+  ]
+}

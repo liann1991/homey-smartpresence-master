@@ -1,0 +1,32 @@
+{
+  "id": "last_kid_left",
+  "title": {
+    "en": "The last kid left",
+    "nl": "Laatste kind is uit huis vertrokken",
+    "de": "Das letzte Kind ist gegangen",
+    "no": "Det siste barnet forlot hjemmet",
+    "da": "Det sidste barn forlod hjemmet",
+    "sv": "Det sista barnet lämnade"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

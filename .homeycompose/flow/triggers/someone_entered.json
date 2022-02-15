@@ -1,0 +1,32 @@
+{
+  "id": "someone_entered",
+  "title": {
+    "en": "Someone arrived",
+    "nl": "Iemand kwam binnen",
+    "de": "Jemand ist angekommen",
+    "no": "Noen kom hjem",
+    "da": "Nogen kom hjem",
+    "sv": "Någon anlände"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

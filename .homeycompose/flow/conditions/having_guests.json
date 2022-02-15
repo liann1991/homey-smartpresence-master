@@ -1,0 +1,11 @@
+{
+  "id": "having_guests",
+  "title": {
+    "en": "!{{Having|Not having}} guests",
+    "nl": "Er is !{{|geen}} bezoek",
+    "de": "!{{Haben|Nicht haben}} Gäste",
+    "no": "!{{Har|Har ikke}} gjester",
+    "da": "!{{Har|Har ikke}} gæster",
+    "sv": "!{{Gäst|Ingen gäst}} är närvarande"
+  }
+}

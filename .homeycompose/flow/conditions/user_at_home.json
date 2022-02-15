@@ -1,0 +1,18 @@
+{
+  "id": "user_at_home",
+  "title": {
+    "en": "A specific user is !{{home|away}}",
+    "nl": "Gebruiker is !{{thuis|weg}}",
+    "de": "Ein bestimmter Benutzer ist !{{zu Hause|abwesend}}",
+    "no": "En bestemt bruker er !{{hjemme|borte}}",
+    "da": "En bestem bruger er !{{hjemme|ude}}",
+    "sv": "En person är !{{närvarande|inte närvarande}}"
+  },
+  "args": [
+    {
+      "name": "device",
+      "type": "device",
+      "filter": "driver_id=smart_presence"
+    }
+  ]
+}

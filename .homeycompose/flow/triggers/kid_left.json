@@ -1,0 +1,32 @@
+{
+  "id": "kid_left",
+  "title": {
+    "en": "A kid left",
+    "nl": "Een kind heeeft het huis verlaten",
+    "de": "Ein Kind ist gegangen",
+    "no": "Et barn forlot hjemmet",
+    "da": "Et barn forlod hjemmet",
+    "sv": "Ett barn lämnade"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ]
+}

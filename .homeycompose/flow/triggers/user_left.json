@@ -1,0 +1,39 @@
+{
+  "id": "user_left",
+  "title": {
+    "en": "A specific user left",
+    "nl": "Gebruiker ging weg",
+    "de": "Ein bestimmter Benutzer ist gegangen",
+    "no": "En bestemt person dro hjemmefra",
+    "da": "En bestemt person forlod hjemmet",
+    "sv": "Personen lämnade"
+  },
+  "tokens": [
+    {
+      "name": "who",
+      "title": {
+        "en": "Who",
+        "nl": "Wie",
+        "de": "Wer",
+        "no": "Hvem",
+        "da": "Hvem",
+        "sv": "Vem"
+      },
+      "example": {
+        "en": "John Doe",
+        "nl": "Jan Jansen",
+        "de": "Max Mustermann",
+        "no": "Ola Nordmann",
+        "da": "Navn Navnesen",
+        "sv": "Medel Svensson"
+      }
+    }
+  ],
+  "args": [
+    {
+      "name": "device",
+      "type": "device",
+      "filter": "driver_id=smart_presence"
+    }
+  ]
+}

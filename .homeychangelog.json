@@ -1,0 +1,44 @@
+{
+  "0.8.1": {
+    "en": "Fixed memory issue. "
+  },
+  "0.8.0": {
+    "en": "Added presence to the Timeline. Fixed rename bug. Migrated to SDK3. "
+  },
+  "0.7.6": {
+    "en": "Added support for kids. "
+  },
+  "0.7.5": {
+    "en": "Added support for kids. "
+  },
+  "0.7.4": {
+    "en": "Performance improvements. Fixed issue with first person, household member and guest triggers. "
+  },
+  "0.7.3": {
+    "en": "Performance improvements. "
+  },
+  "0.7.2": {
+    "en": "The port number can be configured from advanced settings. Increased check intervals for better performance. Better language support. Better performance. "
+  },
+  "0.7.1": {
+    "en": "The port number can be configured from advanced settings. Increased check intervals for better performance. Better language support. "
+  },
+  "0.7.0": {
+    "en": "The port number can be configured from advanced settings. Increased check intervals for better performance. "
+  },
+  "0.6.3": {
+    "en": "New version compatible with Homey firmware 5.x. Fixed issue with adding devices. Added token for user entered / user left triggers. Fixed missing capability. "
+  },
+  "0.6.2": {
+    "en": "New version compatible with Homey firmware 5.x. Fixed issue with adding devices. Added token for user entered / user left triggers. "
+  },
+  "0.6.1": {
+    "en": "New version compatible with Homey firmware 5.x. Fixed issue with adding devices. "
+  },
+  "0.6.0": {
+    "en": "New version compatible with Homey firmware 5.x. "
+  },
+  "0.5.1": {
+    "en": "Device card updates. "
+  }
+}
